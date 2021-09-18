@@ -1,0 +1,10 @@
+rsms_board.c:28:6:RSMS_BOARD_initUsart	4	static
+rsms_board.c:34:6:RSMS_BOARD_initCAN	8	static
+rsms_board.c:40:6:RSMS_BOARD_initSDLogging	16	static
+rsms_board.c:51:6:RSMS_BOARD_initSensors	8	static
+rsms_board.c:58:6:RSMS_BOARD_initTim	8	static
+rsms_board.c:80:6:RSMS_BOARD_initDataHandling	4	static
+rsms_board.c:91:6:RSMS_BOARD_init	16	static
+rsms_board.c:106:6:RSMS_BOARD_logAndSendStatus	8	static
+rsms_board.c:121:6:RSMS_BOARD_tick	8	static
+rsms_board.c:130:6:RSMS_BOARD_canHandle	16	static

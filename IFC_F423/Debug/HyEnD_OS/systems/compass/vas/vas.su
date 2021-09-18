@@ -1,0 +1,16 @@
+vas.c:13:6:vas_IDLE_entry	4	static
+vas.c:16:6:vas_IDLE_while	8	static
+vas.c:29:6:vas_IDLE_exit	4	static
+vas.c:33:6:vas_FUELING_entry	4	static
+vas.c:36:6:vas_FUELING_while	8	static
+vas.c:47:6:vas_FUELING_exit	4	static
+vas.c:51:6:vas_RDY_SET_entry	8	static
+vas.c:58:6:vas_RDY_SET_while	8	static
+vas.c:72:6:vas_RDY_SET_exit	4	static
+vas.c:76:6:vas_FLIGHT_entry	4	static
+vas.c:79:6:vas_FLIGHT_while	8	static
+vas.c:93:6:vas_FLIGHT_exit	4	static
+vas.c:97:6:vas_LANDED_entry	4	static
+vas.c:103:6:vas_LANDED_while	8	static
+vas.c:109:6:vas_LANDED_exit	4	static
+vas.c:113:6:VAS_init	24	static

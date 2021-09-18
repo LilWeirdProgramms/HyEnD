@@ -1,0 +1,4 @@
+fsms_test_tasks.c:15:10:FSMS_TEST_logTime	8	static
+fsms_test_tasks.c:19:6:FSMS_TEST_canHandle	80	static
+fsms_test_tasks.c:49:6:FSMS_TEST_blinkLED	24	static
+fsms_test_tasks.c:57:6:FSMS_TEST_tasks_init	16	static

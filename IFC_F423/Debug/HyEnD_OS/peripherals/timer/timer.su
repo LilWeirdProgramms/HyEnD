@@ -1,0 +1,2 @@
+timer.c:11:9:TIMER_itsTime	16	static
+timer.c:20:6:TIMER_tick	16	static

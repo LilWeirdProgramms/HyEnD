@@ -1,0 +1,16 @@
+ifc_test.c:15:6:ifc_test_IDLE_entry	8	static
+ifc_test.c:20:6:ifc_test_IDLE_while	8	static
+ifc_test.c:25:6:ifc_test_IDLE_exit	8	static
+ifc_test.c:30:6:ifc_test_FUELING_entry	8	static
+ifc_test.c:35:6:ifc_test_FUELING_while	8	static
+ifc_test.c:40:6:ifc_test_FUELING_exit	8	static
+ifc_test.c:45:6:ifc_test_RDY_SET_entry	8	static
+ifc_test.c:50:6:ifc_test_RDY_SET_while	8	static
+ifc_test.c:55:6:ifc_test_RDY_SET_exit	8	static
+ifc_test.c:60:6:ifc_test_FLIGHT_entry	8	static
+ifc_test.c:65:6:ifc_test_FLIGHT_while	8	static
+ifc_test.c:70:6:ifc_test_FLIGHT_exit	8	static
+ifc_test.c:75:6:ifc_test_LANDED_entry	8	static
+ifc_test.c:80:6:ifc_test_LANDED_while	8	static
+ifc_test.c:85:6:ifc_test_LANDED_exit	8	static
+ifc_test.c:90:6:IFC_TEST_init	24	static

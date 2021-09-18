@@ -1,0 +1,16 @@
+fsms_test.c:15:6:fsms_test_IDLE_entry	8	static
+fsms_test.c:19:6:fsms_test_IDLE_while	8	static
+fsms_test.c:24:6:fsms_test_IDLE_exit	8	static
+fsms_test.c:29:6:fsms_test_FUELING_entry	8	static
+fsms_test.c:33:6:fsms_test_FUELING_while	8	static
+fsms_test.c:38:6:fsms_test_FUELING_exit	8	static
+fsms_test.c:43:6:fsms_test_RDY_SET_entry	8	static
+fsms_test.c:47:6:fsms_test_RDY_SET_while	8	static
+fsms_test.c:52:6:fsms_test_RDY_SET_exit	8	static
+fsms_test.c:57:6:fsms_test_FLIGHT_entry	8	static
+fsms_test.c:61:6:fsms_test_FLIGHT_while	8	static
+fsms_test.c:66:6:fsms_test_FLIGHT_exit	8	static
+fsms_test.c:71:6:fsms_test_LANDED_entry	8	static
+fsms_test.c:75:6:fsms_test_LANDED_while	8	static
+fsms_test.c:80:6:fsms_test_LANDED_exit	8	static
+fsms_test.c:85:6:FSMS_TEST_init	24	static

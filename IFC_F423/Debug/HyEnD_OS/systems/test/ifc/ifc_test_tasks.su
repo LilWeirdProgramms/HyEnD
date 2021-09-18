@@ -1,0 +1,5 @@
+ifc_test_tasks.c:16:10:IFC_TEST_logTime	8	static
+ifc_test_tasks.c:20:6:IFC_TEST_canHandle	80	static
+ifc_test_tasks.c:51:6:IFC_TEST_orderTransition	16	static
+ifc_test_tasks.c:57:6:IFC_TEST_blinkLED	24	static
+ifc_test_tasks.c:65:6:IFC_TEST_tasks_init	16	static

@@ -1,0 +1,6 @@
+ifc_dataHandling.c:33:6:IFC_DH_init	16	static
+ifc_dataHandling.c:47:6:IFC_DH_sendTransition	16	static
+ifc_dataHandling.c:57:6:IFC_DH_reactOnData	8	static
+ifc_dataHandling.c:63:6:IFC_DH_reactOnSingleRequest	16	static
+ifc_dataHandling.c:67:6:IFC_DH_reactOnRequest	8	static
+ifc_dataHandling.c:77:6:IFC_DH_canHandle	16	static

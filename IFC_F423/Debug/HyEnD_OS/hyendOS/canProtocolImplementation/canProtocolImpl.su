@@ -1,0 +1,16 @@
+canProtocolImpl.c:20:6:CANI_receiveMessage	16	static
+canProtocolImpl.c:26:9:CANI_isThisTarget	16	static
+canProtocolImpl.c:31:6:CANI_fillHeader	16	static
+canProtocolImpl.c:35:6:CANI_sendMessage	24	static
+canProtocolImpl.c:40:6:CANI_sendData	16	static
+canProtocolImpl.c:47:6:CANI_sendRequestData	16	static
+canProtocolImpl.c:56:6:CANI_sendTransition	16	static
+canProtocolImpl.c:64:9:CANI_isMaster	16	static
+canProtocolImpl.c:68:9:CANI_isTransitionHeader	16	static
+canProtocolImpl.c:72:6:CANI_copyCANpackage	16	static
+canProtocolImpl.c:80:6:CANI_interpretDataMessage	16	static
+canProtocolImpl.c:85:6:CANI_interpretRequestDataMessage	16	static
+canProtocolImpl.c:90:6:CANI_interpretTransitionMessage	16	static
+canProtocolImpl.c:98:9:CANI_isStatusData	16	static
+canProtocolImpl.c:102:6:CANI_unpackStatus	16	static
+canProtocolImpl.c:106:6:CANI_packStatus	16	static

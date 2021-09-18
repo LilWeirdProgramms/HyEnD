@@ -1,0 +1,16 @@
+rsms.c:13:6:rsms_IDLE_entry	8	static
+rsms.c:17:6:rsms_IDLE_while	8	static
+rsms.c:25:6:rsms_IDLE_exit	8	static
+rsms.c:30:6:rsms_FUELING_entry	8	static
+rsms.c:34:6:rsms_FUELING_while	8	static
+rsms.c:56:6:rsms_FUELING_exit	8	static
+rsms.c:61:6:rsms_RDY_SET_entry	8	static
+rsms.c:65:6:rsms_RDY_SET_while	8	static
+rsms.c:87:6:rsms_RDY_SET_exit	8	static
+rsms.c:92:6:rsms_FLIGHT_entry	8	static
+rsms.c:96:6:rsms_FLIGHT_while	8	static
+rsms.c:118:6:rsms_FLIGHT_exit	8	static
+rsms.c:123:6:rsms_LANDED_entry	4	static
+rsms.c:126:6:rsms_LANDED_while	8	static
+rsms.c:134:6:rsms_LANDED_exit	4	static
+rsms.c:138:6:RSMS_init	24	static

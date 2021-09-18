@@ -1,0 +1,5 @@
+ads8688.c:19:6:ADS_appendData	40	dynamic
+ads8688.c:28:6:ADS_writeRegister	32	static
+ads8688.c:43:6:ADS_setInputRange	16	static
+ads8688.c:70:6:ADS_init	16	static
+ads8688.c:96:6:ADS_measure	24	static

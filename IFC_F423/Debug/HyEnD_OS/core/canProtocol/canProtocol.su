@@ -1,0 +1,13 @@
+canProtocol.c:23:10:CANP_packHeader	24	static
+canProtocol.c:32:6:buildHalfPayload	24	static
+canProtocol.c:39:6:CANP_packData	16	static
+canProtocol.c:47:6:CANP_packRequestData	16	static
+canProtocol.c:58:6:CANP_packTransition	16	static
+canProtocol.c:70:6:CANP_unpackHeader	24	static
+canProtocol.c:78:6:CANP_unpackSingleDataFromMessage	24	static
+canProtocol.c:84:6:CANP_unpackDataMessage	16	static
+canProtocol.c:90:6:CANP_unpackRequestDataMessage	16	static
+canProtocol.c:97:6:CANP_unpackTransitionMessage	32	static
+canProtocol.c:120:6:CANP_unpackStatus	16	static
+canProtocol.c:127:6:CANP_packStatus	16	static
+canProtocol.c:132:9:CANP_isStatusData	16	static

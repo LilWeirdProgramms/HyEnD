@@ -1,0 +1,16 @@
+vas_board.c:31:6:VAS_BOARD_initUsart	4	static
+vas_board.c:37:6:VAS_BOARD_initGP	8	static
+vas_board.c:41:6:VAS_BOARD_initCAN	8	static
+vas_board.c:47:6:VAS_BOARD_initTim	8	static
+vas_board.c:61:6:VAS_BOARD_initDataHandling	4	static
+vas_board.c:72:6:VAS_BOARD_init	16	static
+vas_board.c:87:7:VAS_BOARD_getGPCurrent	8	static
+vas_board.c:96:9:VAS_isGPOn	8	static
+vas_board.c:100:9:VAS_isGPRecording	8	static
+vas_board.c:104:6:VAS_switchPin	16	static
+vas_board.c:110:6:VAS_shutdownGP	8	static
+vas_board.c:114:6:VAS_startGP	8	static
+vas_board.c:125:6:VAS_startGPRecording	8	static
+vas_board.c:129:6:VAS_BOARD_sendStatus	8	static
+vas_board.c:140:6:VAS_BOARD_tick	8	static
+vas_board.c:147:6:VAS_BOARD_canHandle	16	static

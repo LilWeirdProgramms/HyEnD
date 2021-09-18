@@ -1,0 +1,12 @@
+SDfileHandling.c:27:9:SDFH_init	16	static
+SDfileHandling.c:57:6:SDFH_getFileNameLength	24	static
+SDfileHandling.c:62:6:SDFH_getFileName	16	static
+SDfileHandling.c:66:6:SDFH_getDataLength	32	static
+SDfileHandling.c:74:6:SDFH_packData	16	static
+SDfileHandling.c:78:9:SDFH_openFile	16	static
+SDfileHandling.c:83:9:SDFH_closeFile	8	static
+SDfileHandling.c:87:9:SDFH_writeToFile	16	static
+SDfileHandling.c:91:9:SDFH_writeIntToFile	40	dynamic
+SDfileHandling.c:105:9:SDFH_writeSingle	32	static
+SDfileHandling.c:114:6:SDFH_writeTest	32	dynamic
+SDfileHandling.c:128:6:SDFH_normalOperation	32	dynamic

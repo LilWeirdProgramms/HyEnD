@@ -1,0 +1,8 @@
+stateMachine.c:10:6:voidMethod	4	static
+stateMachine.c:15:6:voidVoidMethod	16	static
+stateMachine.c:20:6:initDefaultTask	16	static
+stateMachine.c:34:6:initMicrocontroller	16	static
+stateMachine.c:44:8:getTasks	4	static
+stateMachine.c:48:11:getMCState	80	static
+stateMachine.c:60:9:isStateHigher	24	static
+stateMachine.c:65:6:stateTransition	16	static

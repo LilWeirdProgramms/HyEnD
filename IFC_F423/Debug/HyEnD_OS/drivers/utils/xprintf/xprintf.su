@@ -1,0 +1,12 @@
+xprintf.c:39:6:xputc	16	static
+xprintf.c:53:6:xfputc	24	static
+xprintf.c:73:6:xputs	16	static
+xprintf.c:83:6:xfputs	24	static
+xprintf.c:121:6:xvprintf	88	static
+xprintf.c:236:6:xprintf	16	static
+xprintf.c:250:6:xsprintf	28	static
+xprintf.c:270:6:xfprintf	28	static
+xprintf.c:296:6:put_dump	40	static
+xprintf.c:348:5:xgets	24	static
+xprintf.c:379:5:xfgets	32	static
+xprintf.c:410:5:xatoi	24	static

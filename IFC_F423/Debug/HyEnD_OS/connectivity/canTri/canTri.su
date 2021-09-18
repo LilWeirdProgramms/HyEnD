@@ -1,0 +1,17 @@
+canTri.c:13:6:CAN_Start	24	static
+canTri.c:24:6:setStandardFilter	24	static
+canTri.c:41:6:CAN_setHeader	16	static
+canTri.c:50:9:CAN_init	16	static
+canTri.c:100:6:CAN_setID	16	static
+canTri.c:104:6:CAN1_setID	16	static
+canTri.c:108:6:CAN2_setID	16	static
+canTri.c:112:6:CAN3_setID	16	static
+canTri.c:117:6:CAN_SendMessage	24	static
+canTri.c:128:6:CAN1_SendMessage	16	static
+canTri.c:132:6:CAN2_SendMessage	16	static
+canTri.c:136:6:CAN3_SendMessage	16	static
+canTri.c:141:6:CAN_ReceiveMessage	16	static
+canTri.c:158:6:CAN_ReceiveForwardMessage	24	static
+canTri.c:166:6:CAN1_ReceiveMessage	16	static
+canTri.c:170:6:CAN2_ReceiveMessage	16	static
+canTri.c:174:6:CAN3_ReceiveMessage	16	static

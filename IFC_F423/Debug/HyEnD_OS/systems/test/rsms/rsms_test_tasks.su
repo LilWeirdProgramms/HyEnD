@@ -1,0 +1,4 @@
+rsms_test_tasks.c:15:10:RSMS_TEST_logTime	8	static
+rsms_test_tasks.c:19:6:RSMS_TEST_canHandle	80	static
+rsms_test_tasks.c:49:6:RSMS_TEST_blinkLED	24	static
+rsms_test_tasks.c:57:6:RSMS_TEST_tasks_init	16	static

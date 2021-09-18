@@ -1,0 +1,11 @@
+SDlogger.c:29:6:Logger_OpenFile	16	static
+SDlogger.c:35:6:Logger_CloseFile	8	static
+SDlogger.c:39:6:Logger_init	24	static
+SDlogger.c:57:6:Logger_SetMaxDataPerFile	16	static
+SDlogger.c:61:6:Logger_NextFile	8	static
+SDlogger.c:68:6:Logger_DataAdded	8	static
+SDlogger.c:76:6:Logger_logData	40	static
+SDlogger.c:84:6:Logger_StartDataPackage	40	static
+SDlogger.c:91:6:Logger_EndDataPackage	8	static
+SDlogger.c:96:6:Logger_logChars	16	static
+SDlogger.c:100:6:Logger_logNumbers	24	static
